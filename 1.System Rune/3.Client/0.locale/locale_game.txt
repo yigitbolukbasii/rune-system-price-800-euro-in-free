@@ -1,0 +1,81 @@
+RUNE_TEXT_00	BERSRKER
+RUNE_TEXT_01	JÄGER
+RUNE_TEXT_02	UNTERSTÜTZUNG
+RUNE_TEXT_03	Lebenswechsel
+RUNE_TEXT_04	Töte einen Spieler um deine HP um 50% aufzufüllen.
+RUNE_TEXT_05	Erhöhte Zaubergeschwindigkeit
+RUNE_TEXT_06	Chance die Nachladezeit der Fertigkeiten zu überspringen
+RUNE_TEXT_07	Durchbohrender Schaden
+RUNE_TEXT_08	Jeder 5te Hit ignoriert das abblocken des Gegners.
+RUNE_TEXT_09	Throatseeker
+RUNE_TEXT_10	10% Durchschnittsschaden
+RUNE_TEXT_11	Korruption
+RUNE_TEXT_12	10% Fertigkeitsschaden
+RUNE_TEXT_13	Wille der Klingen
+RUNE_TEXT_14	20% Kritischer Schaden
+RUNE_TEXT_15	Schmerzfälscher
+RUNE_TEXT_16	10% Stark gegen Halbmenschen
+RUNE_TEXT_17	Überladen
+RUNE_TEXT_18	20% Zaubergeschwindigkeit
+RUNE_TEXT_19	Klingenmaster
+RUNE_TEXT_20	5% Schwert/Zwei-Hand/Klingen Deff
+RUNE_TEXT_21	Klingentänzer
+RUNE_TEXT_22	5% Bogen/Glocken/Fächer Deff
+RUNE_TEXT_23	Knochenbrecher
+RUNE_TEXT_24	5% Bruch gegen alle PvP Deffs
+RUNE_TEXT_25	Vergiftungschance
+RUNE_TEXT_26	8% Vergiftungschance
+RUNE_TEXT_27	Erlösung
+RUNE_TEXT_28	100 Angriffswert
+RUNE_TEXT_29	Echter Streik
+RUNE_TEXT_30	Jeder 3te Treffer verursacht 1000 weiteren Schaden
+RUNE_TEXT_31	Flottenfuß
+RUNE_TEXT_32	100% Bewegungsgeschwindigkeit
+RUNE_TEXT_33	Brutale Klinge
+RUNE_TEXT_34	15% Stark gegen Monster
+RUNE_TEXT_35	Tödliche Klinge
+RUNE_TEXT_36	15% Stark gegen Bosse
+RUNE_TEXT_37	Mysteriöse Klinge
+RUNE_TEXT_38	15% Stark gegen Metinsteine
+RUNE_TEXT_39	Tödlichkeit
+RUNE_TEXT_40	20% Stark gegen Teufel & Untote
+RUNE_TEXT_41	Barbarisch
+RUNE_TEXT_42	20% Stark gegen Orks & Esoterische Tiere
+RUNE_TEXT_43	Schlachten
+RUNE_TEXT_44	20% Strark gegen Tiere
+RUNE_TEXT_45	Defiance
+RUNE_TEXT_46	100 Verteidigung
+RUNE_TEXT_47	Herzenssucher
+RUNE_TEXT_48	10% TP Absorb
+RUNE_TEXT_49	Elemente überladen 
+RUNE_TEXT_50	10% Stark gegen alle Elemente
+RUNE_TEXT_51	Arkaner Wille
+RUNE_TEXT_52	12Stunden Buffwirkung
+RUNE_TEXT_53	Souveränität
+RUNE_TEXT_54	Buffsfähgikeiten haben 10% mehr Wirkung
+RUNE_TEXT_55	Glückliches Hufeisen
+RUNE_TEXT_56	5% Chance um Bossdropps doppelt zu erhalten.
+RUNE_TEXT_57	Dieb
+RUNE_TEXT_58	20% mehr Dropchance
+RUNE_TEXT_59	Gold Kobold
+RUNE_TEXT_60	20% mehr Yangdrop
+RUNE_TEXT_61	Erfahren
+RUNE_TEXT_62	20% mehr Chance auf Erfahrung
+RUNE_TEXT_63	Hexendoktor
+RUNE_TEXT_64	+20% Tränke/Taus Effekte
+RUNE_TEXT_65	Infused
+RUNE_TEXT_66	+10% Eq Bonis
+RUNE_TEXT_67	Urgeist
+RUNE_TEXT_68	+20% Pferde-Bonis
+RUNE_TEXT_69	Mystische Talente
+RUNE_TEXT_70	+20% Haustier Bonis
+RUNE_TEXT_71	Kinetische Auswirkung
+RUNE_TEXT_72	+20% Gruppenleader Bonis
+RUNE_TEXT_73	Fossilte Haut
+RUNE_TEXT_74	+20% Kostüm Bonis
+RUNE_TEXT_75	Schlüsselstein
+RUNE_TEXT_76	Drück auf den Schlüsselstein um ihn auszuwählen.
+RUNE_TEXT_77	Gesperrt
+RUNE_TEXT_78	Du musst die Rune erst freischalten bevor du sie einsetzen kannst.
+RUNE_TEXT_79	Freier Slot
+RUNE_TEXT_80	Du musst auf eine Rune klicken um sie zu benutzen.

@@ -1,0 +1,3 @@
+// ADD //
+if app.ENABLE_RUNE_SYSTEM:
+	RUNE_SYSTEM = 0

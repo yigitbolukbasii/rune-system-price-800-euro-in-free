@@ -1,0 +1,7 @@
+title subImage
+version 2.0
+image "pvp.dds"
+left 250
+top 335
+right 335
+bottom 415

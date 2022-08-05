@@ -1,0 +1,23 @@
+"RUNE_AT_LEAST_ONE_KEYSTONE_MUST_BE_ENABLED";
+"<Rune System> At least one keystone must be enabled in order to do this.";
+
+"RUNE_YOU_DO_NOT_HAVE_ENOUGH_MONEY_FOR_RUNE";
+"<Rune System> You do not have enough money in order to buy this rune.";
+
+"RUNE_YOU_NEED_%d_X_%s_IN_ORDER_TO_DO_THIS";
+"<Rune System> You need %d %s in order to do this.";
+
+"RUNE_YOU_DO_NOT_HAVE_ENOUGH_ITEMS";
+"<Rune System> You do not have enough items to do this.";
+
+"RUNE_YOU_ROW_SUCCESSFULLY_UNLOCKED";
+"<Rune System> Your row has ben successfully unlocked.";
+
+"RUNE_YOU_MUST_UNLOCK_THE_RUNE_ROWS_IN_ASCENDING_ORDER";
+"<Rune System> You must unlock the rune rows in ascending order.";
+
+"RUNE_YOU_DO_NOT_HAVE_ENOUGH_MONEY_FOR_KEYSTONE";
+"<Rune System> You do not have enough money in order to buy this keystone.";
+
+"RUNE_YOU_KEYSTONE_SUCCESSFULLY_UNLOCKED";
+"<Rune System> Your keystone has been successfully unlocked.";

@@ -1,0 +1,5 @@
+// Find //
+  `horse_skill_point` smallint(3) NOT NULL DEFAULT 0,
+
+// Add Aftar //
+  `r_available` varbinary(201) NOT NULL DEFAULT '0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0',

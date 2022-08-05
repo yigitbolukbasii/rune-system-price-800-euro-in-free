@@ -1,0 +1,304 @@
+Group PVP_KEYSTONE1
+{
+	rune 1
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 -1 50
+}
+Group PVP_KEYSTONE2
+{
+	rune 2
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 -2 15
+}
+Group PVP_KEYSTONE3
+{
+	rune 3
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 -3 100
+}
+Group PVP_RUNE1
+{
+	rune 4
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 72 10
+}
+Group PVP_RUNE2
+{
+	rune 5
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 71 10
+}
+Group PVP_RUNE3
+{
+	rune 6
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 -10 20
+}
+Group PVP_RUNE4
+{
+	rune 7
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 17 10
+}
+Group PVP_RUNE5
+{
+	rune 8
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 9 20
+}
+Group PVP_RUNE6
+{
+	rune 9
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 29 5
+	bonus2 30 5
+	bonus3 31 5
+}
+Group PVP_RUNE7
+{
+	rune 10
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 32 5
+	bonus2 33 5
+	bonus3 34 5
+}
+Group PVP_RUNE8
+{
+	rune 11
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 112 5
+	bonus2 113 5
+	bonus3 114 5
+	bonus4 115 5
+	bonus5 116 5
+	bonus6 117 5
+}
+
+Group PVP_RUNE9
+{
+	rune 12
+	page 0
+	cost 0
+	require_item1 0 0
+	bonus1 41 8
+}
+Group PVM_KEYSTONE1
+{
+	rune 1
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 53 100
+}
+Group PVM_KEYSTONE2
+{
+	rune 2
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 -5 1000
+}
+Group PVM_KEYSTONE3
+{
+	rune 3
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 8 100
+}
+Group PVM_RUNE1
+{
+	rune 4
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 63 15
+}
+Group PVM_RUNE2
+{
+	rune 5
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 18 15
+}
+Group PVM_RUNE3
+{
+	rune 6
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 20 15
+}
+Group PVM_RUNE4
+{
+	rune 7
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 21 20
+	bonus2 22 20
+}
+Group PVM_RUNE5
+{
+	rune 8
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 19 20
+	bonus2 102 20
+}
+Group PVM_RUNE6
+{
+	rune 9
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 101 20
+	bonus2 30 5
+}
+Group PVM_RUNE7
+{
+	rune 10
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 54 100
+}
+Group PVM_RUNE8
+{
+	rune 11
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 23 10
+}
+
+Group PVM_RUNE9
+{
+	rune 12
+	page 1
+	cost 0
+	require_item1 0 0
+	bonus1 110 10
+}
+Group SUPPORT_KEYSTONE1
+{
+	rune 1
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 -7 1
+}
+Group SUPPORT_KEYSTONE2
+{
+	rune 2
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 -8 10
+}
+Group SUPPORT_KEYSTONE3
+{
+	rune 3
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 -9 5
+}
+Group SUPPORT_RUNE1
+{
+	rune 4
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 45 20
+}
+Group SUPPORT_RUNE2
+{
+	rune 5
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 44 20
+}
+Group SUPPORT_RUNE3
+{
+	rune 6
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 43 20
+}
+Group SUPPORT_RUNE4
+{
+	rune 7
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 46 20
+	bonus2 -16 20
+}
+Group SUPPORT_RUNE5
+{
+	rune 8
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 -11 10
+}
+Group SUPPORT_RUNE6
+{
+	rune 9
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 -12 20
+}
+Group SUPPORT_RUNE7
+{
+	rune 10
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 -13 20
+}
+Group SUPPORT_RUNE8
+{
+	rune 11
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 -14 20
+}
+
+Group SUPPORT_RUNE9
+{
+	rune 12
+	page 2
+	cost 0
+	require_item1 0 0
+	bonus1 -15 20
+}
